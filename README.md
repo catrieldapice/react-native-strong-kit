@@ -4,7 +4,7 @@ React native proyect based on `redux + react-native-router-flux + react-native-e
   
  ## Get Started
   
-> git clone https://github.com/techflowlabs/react-native-strong-kit.git
+> git clone https://github.com/catrieldapice/react-native-strong-kit.git
 > `npm install` or `yarn install` I prefer `Yarn`
 > `react-native link` for libraries
 > To run from terminal : `npm run a` (android) or `npm run i` (ios)
